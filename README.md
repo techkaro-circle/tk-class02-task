@@ -80,4 +80,8 @@ Never start to design a website without following a proper step by step procedur
 #### Step 16:
 > Finally, you can compare your entire design with the design provided in the mockup.
 
+### MOCKUP IMAGE 
+
+![MOCKUP](mockup/tk-class02-mockup.png)
+
 ###### GOOD LUCK!
