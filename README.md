@@ -82,8 +82,7 @@ Never start to design a website without following a proper step by step procedur
 
 #### HOW TO USE ICONS IN YOUR PROJECT
 
-You can use any third party package to use icons in your project. For example if you want to use icons of font awesome (fontawesome is a website that provides you with icons) then copy paste the cdn link i.e, 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> in the head tag. And then use any of the icons from the website such as <i class="fa fa-car"></i>
+You can use any third party package to use icons in your project. For example if you want to use icons of font awesome (fontawesome is a website that provides you with icons) then copy paste the cdn in the link tag head element. And then use any of the icons from the website such as <i class="fa fa-car"></i>
 To use other icons go the website: (https://fontawesome.com/icons?d=gallery)
 
 ### MOCKUP CONTENT
