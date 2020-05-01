@@ -85,63 +85,43 @@ Never start to design a website without following a proper step by step procedur
 #### Step 17:
 > Now since you have written all html markup and added the basic styles to you tags, it's time to position the elements according to the final mockup.
 
-#### Step 16:
-> Observe the navbar first, it has 3 main things, nav options on the right, heading in the center and some input tags on the right corner. that you have already writtin in your html. 
+#### Step 18:
+> Observe the navbar first, it has 3 main things, nav options on the right, heading in the center and some input tags on the right corner. You have already written the html markup for it. 
 
-#### Step 16:
-> To align them all in one single line, you first need to enclose each part in a div i.e enclose nav items in one div, center content in another div and the input buttons in another div and assign the same class to each div.
+#### Step 19:
+> To align them all in one single line, you first need to enclose each part in a div i.e enclose nav items in one div, center SIMMONS heading and text in one div and the input buttons in another div and assign the same class to each div.
 
-#### Step 16:
-> Now you can give the property of display on the class you assigned to the divs and set it to inline-block. Remember CSS also provides you to write inline alone in display. The main difference between display: inline and display: inline-block is that when you simply give an element an inline property, you can not change its margin and padding. But when you use inline-block, you have control over the padding and margin of an element. A better practice is to use inline-block.
+#### Step 20:
+> Now you can give the display property on the class you assigned to the divs and set it to inline-block. Remember CSS also provides you to write 'inline' in display. The main difference between 'display: inline' and 'display: inline-block' is that when you give an element an inline property, you can not change its margin and padding values. But when you use inline-block, you have control over the padding and margin of an element. A better practice is to use inline-block. Similarity between both is that your element does not occupy the entire browser width
 
-#### Step 16:
+#### Step 21:
 > If you want to give some space between the input tags or the overall content inside the top header, simply increase the padding values
 
-#### Step 16:
+#### Step 22:
 > The next navbar will also be styled the same way i.e you will set display property and assign inline-block to it for the elements to appear in a single row. 
 
-#### Step 16:
+#### Step 23:
 > Observe that the tab which is currently active has a different color, use pseudoclasses(HINT: hover pseudoclass) to create that effect.
 
-#### Step 16:
-> Now let's come to the image. The image has text written on it. You can also create that effect by simply using position property and set it to absolute. Remember to always assign position of relative to the tag you want the text to appear on, in this case we will set the image tag to position of relative.
+#### Step 24:
+> Now let's come to the image. The image has text written on it. You can also create that by simply using position property and set it to absolute. Remember to always assign position to relative to the tag you want the text to appear on, in this case we will set the image tag to position relative.
 
-#### Step 16:
+#### Step 25:
 > If you see further, we have a green box occupying the whole row space of the browser. If you have used div to enclose that, no need to seperately assign display property of block, because all div elements have display block by default.
 
-#### Step 16:
-> The boxes that appear in a single row are simply because of assigning the display property and setting it to inline-block like we discussed in the previous steps. You can adjust the width of the box simply by assigning width property to the box. If you want to give similar effect to more than one element, give them a similar class name. In this way you will only need to style them once.
+#### Step 26:
+> The boxes that appear in a single row are simply because of assigning the display property and setting it to inline-block like we discussed in the previous steps. You can adjust the width of the box by assigning width property to the box. If you want to give similar effect to more than one element, give them a similar class name. In this way you will only need to style them once.
 
-#### Step 16:
-> Next the space you see in the button text is because of the padding property.
+#### Step 27:
+> Next, the space you see in the button text and the border is because of the padding property.
 
-#### Step 16:
+#### Step 28:
 > Now let us see the footer, if you observe it seems like there are 4 columns in the footer element with each containing certain text. You can also make 4 div elements and enclose each column content in each div. Give a similar class name to these 4 divs and set width such that all 4 columns appear in the same row. Again you will need to use inline-block to make sure each div does not occupy the browser entire width.
 
-#### Step 16:
-> Lastly if you see the browser width is 100%. If you 4 columns of the same size, simply 
-#### Step 16:
-#### Step 16:
+#### Step 29:
+> Lastly if you see, the browser width is 100%. If you want 4 columns of the same size, simply give each div a width of 23%. Leave two percent for margin property. In this way you will have columns of exact width.   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+###### GOOD LUCK!
 
 ### MOCKUP CONTENT
 
@@ -151,4 +131,4 @@ Never start to design a website without following a proper step by step procedur
 
 ![MOCKUP](mockup/tk-class02-mockup.png)
 
-###### GOOD LUCK!
+
