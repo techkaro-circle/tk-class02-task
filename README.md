@@ -80,7 +80,7 @@ Never start to design a website without following a proper step by step procedur
 #### Step 16:
 > Finally, you can compare your entire design with the design provided in the mockup.
 
-**Dated: 2nd May 2020**
+### Dated: 2nd May 2020
 
 #### Step 17:
 > Now since you have written all html markup and added the basic styles to you tags, it's time to position the elements according to the final mockup.
